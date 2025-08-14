@@ -1,5 +1,7 @@
 # Yeodam - Korean Travel Recommendation System
 
+> **한국어 문서**: [README_KR.md](README_KR.md)
+
 An AI-powered Korean travel recommendation system that uses Google Places API and OpenAI to suggest places and restaurants based on user preferences.
 
 ## Features

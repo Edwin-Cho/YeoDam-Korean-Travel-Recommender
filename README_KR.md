@@ -1,5 +1,7 @@
 # Yeodam - 한국 여행 추천 시스템
 
+> **English Documentation**: [README.md](README.md)
+
 AI 기반 한국 여행 추천 시스템으로, Google Places API와 OpenAI를 활용하여 사용자 선호도에 맞는 장소와 맛집을 추천합니다.
 
 ## 주요 기능
